@@ -1,3 +1,5 @@
+# Simple Java Calculator
+
 Robotics Offseason Project -
 
 Terminal asks for a number, an operation (+, -, *, /), followed by another number.
